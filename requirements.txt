@@ -1,0 +1,8 @@
+astro-gdt
+astro-gdt-fermi
+numpy
+matplotlib
+pandas
+tqdm
+pillow
+opencv-python
